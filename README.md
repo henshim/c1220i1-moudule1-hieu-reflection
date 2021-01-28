@@ -62,3 +62,24 @@ __construct() vs __destruct()
 
 <li>Để can thiệp vào quá trình huỷ đối tượng, chúng ta sử dụng hàm __destruct()</li>
 </ul>
+
+###reflection bai 4 28/1
+<ul>
+<li>Namespace (tên miền không gian) là một hình thức để đóng gói các hạng mục có liên quan lại với nhau</li>
+<li>Trong PHP, namespace được thiết kế để giải quyết 2 vấn đề mà các tách giả của các thư viện và ứng dụng thường gặp phải khi cố gắng tạo ra các đối tượng hoặc hàm có thể tái sử dụng được</li>
+<li>Các tên gọi bị trùng nhau giữa những lớp/hàm được tạo ra, so với các lớp/hàm có sẵn của PHP, hoặc các lớp/hàm do một người khác viết</li>
+<li>Khả năng để rút ngắn tên gọi thông qua việc đặt các bí danh (alias) nhằm giữ cho mã nguồn ngắn gọn</li>
+</ul>
+PHP cũng là một ngôn ngữ lập trình nên nó cũng có cung cấp các thư viện xử lý JSON giúp lập trình viên giải quyết nó dễ dàng. Chúng ta có hai hàm đó là hàm json_decode và json_encode:
+json_decode: Hàm này mục đích chuyển một chuỗi JSON sang dạng mảng hoặc object,hàm này có cú pháp như sau: json_decode($json_string, $assoc)
+$json_string: là chuỗi JSON
+$assoc có hai giá trị true / false. Nếu true thì kết quả nó trả về là dạng array, ngược lại nếu false thì kết quả trả về dạng object. Mặc định là false.
+json_encode: Hàm sẽ chuyển một mảng trong PHP hoặc object trong PHP thành chuỗi JSON.
+
+-Cách dùng Composer : Autoload (Tránh cho việc phải dùng nhiều lần câu lệnh include hay require trong một tập kỹ thuật clean code)
+VD:require __DIR__ . '/vendor/autoload.php';
+{
+"autoload": {
+"psr-4": {"Acme\\": "src/"}
+}
+}
