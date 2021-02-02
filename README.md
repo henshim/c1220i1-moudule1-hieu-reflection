@@ -1,4 +1,26 @@
 # c1220i1-moudule2-hieu-reflection
+## reflection 2/2
+clean code là định nghĩa cho mã sạch
+mã sạch là
+<ul>
+<li>mã dễ đọc</li>
+<li>không có code trùng lặp</li>
+<li>thể hiện được ý tưởng của thiết kế</li>
+</ul>
+ngược lại với nó là code smell(mã bẩn)<br>
+- refactoring
+<ul>
+<li>cho phép chỉnh sửa mã nguồn mà không ảnh hưởng đến code</li>
+<li>có một số kỹ thuật refactoring cơ bản như</li>
+<ul>
+<li>thay đổi tên biến</li>
+<li>tách biến</li>
+<li>tách hằng</li>
+<li>tách phương thức</li>
+</ul>
+</ul>
+
+<hr>
 ##reflection ngay 1/2
 mindmap
 <hr>
