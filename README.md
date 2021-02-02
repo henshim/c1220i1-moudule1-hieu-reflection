@@ -1,4 +1,7 @@
 # c1220i1-moudule2-hieu-reflection
+##reflection ngay 1/2
+mindmap
+<hr>
 ##reflection bai 5 29/1
 <ol>
 <li>từ khóa final</li> 
