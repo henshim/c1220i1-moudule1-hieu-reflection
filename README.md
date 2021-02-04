@@ -1,4 +1,14 @@
 # c1220i1-moudule2-hieu-reflection
+<hr>
+
+##reflecton 4/2
+mind map
+
+<hr>
+
+##reflection 3/2 
+mind map
+<hr>
 ## reflection 2/2
 clean code là định nghĩa cho mã sạch
 mã sạch là
