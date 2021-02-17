@@ -1,6 +1,14 @@
 # c1220i1-moudule2-hieu-reflection
 <hr>
 
+##reflection 17/2
+
+đã được viết trong mindmap<br>
+bài tập về nhà:
+đã xong bài 1
+nghĩ ra ideal của bài 2 nhưng chưa triển khai được
+<hr>
+
 ##reflecton 4/2
 mind map
 
