@@ -1,5 +1,55 @@
 # c1220i1-moudule2-hieu-reflection
 <hr>
+reflection 23/2
+
+đã được viết trong mindmap<br>
+sự khác biệt giữa DBMS và RDBMS<br>
+<table>
+<tr>
+<th>DBMS</th>
+<th>RDBMS</th>
+</tr>
+<tr>
+<td>DBMS Lưu trữ dữ liệu dưới dạng file</td>
+<td>Được lưu trữ dưới dạng bảng</td>
+</tr>
+
+<tr>
+<td>DL được lưu trữ duới dạng phân cấp và điều hướng</td>
+<td>Bảng có một định danh goi là khóa chính và giá trị được lưu trữ dưới dạng bảng</td>
+</tr>
+
+<tr>
+<td>Không có chuẩn hóa DL</td>
+<td>có chuẩn hóa DL</td>
+</tr>
+
+<tr>
+<td>Không có bảo vệ DL khi thực hiện các thao tác</td>
+<td>Có ràng buôc toàn vẹn đảm bảo toàn vẹn DL khi thực hiện các thao tác DL như thêm sửa xóa...</td>
+</tr>
+
+<tr>
+<td>Thường dùng trong DL nhỏ và khối lượng DL nhỏ</td>
+<td>Hỗ trợ một cấu trúc bảng và quan hệ giữa chúng để truy cập vào thông tin lưu trữ</td>
+</tr>
+
+<tr>
+<td>Cung cấp những phương thức thống nhất để truy cập vào thông tin được lưu trữ</td>
+<td>Hỗ trợ CSDL phân tán</td>
+</tr>
+
+<tr>
+<td>Không có hỗ trợ DL phân tán</td>
+<td>hỗ trợ DL phân tán</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Được thiết kế xử lý lượng DL lớn, hỗ trợ nhiều người dùng</td>
+</tr>
+</table>
+<hr>
 
 ##reflection 17/2
 
