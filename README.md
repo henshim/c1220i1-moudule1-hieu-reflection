@@ -1,6 +1,9 @@
 # c1220i1-moudule2-hieu-reflection
 <hr>
-reflection 23/2
+## reflection 24/2
+đã được viết trong mindmap
+<hr>
+##reflection 23/2
 
 đã được viết trong mindmap<br>
 sự khác biệt giữa DBMS và RDBMS<br>
