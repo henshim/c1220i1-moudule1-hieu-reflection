@@ -1,5 +1,8 @@
 # c1220i1-moudule2-hieu-reflection
 <hr>
+## reflection 1/3
+đã dược viết trong mind map
+<hr>
 ## reflection 24/2
 đã được viết trong mindmap
 <hr>
