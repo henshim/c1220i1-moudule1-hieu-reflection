@@ -1,5 +1,9 @@
 # c1220i1-moudule2-hieu-reflection
 <hr>
+## reflection 4/3
+chưa có gì trong mindmap ngày hôm nay<br>
+còn về code em định nôp hôm nay thì một phần là em đang code theo bài thực hành mvc nên chưa có gì cả nên thôi ạ
+<hr>
 ## reflection 1/3
 đã dược viết trong mind map
 <hr>
